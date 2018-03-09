@@ -43,6 +43,9 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   - [Week 2 - PA 2 - Residual Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
+  - [Week 3 - PA 1 - Car Detection with YOLO](https://github.com/umicoo/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%2Bdetection%20-%20v3.ipynb)
+  - [Week 4 - PA 1 - Art generation with Neural Style Transfer](https://github.com/umicoo/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+  - [Week 4 - PA 2 - Face Recognition for the Happy House](https://github.com/umicoo/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
   
 - Course 5: Sequence Models
 
